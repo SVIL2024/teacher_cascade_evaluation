@@ -12,6 +12,5 @@ git clone https://github.com/yourusername/teacher_cascade_evaluation.git
 open the cascade_model.ipynb file, and run all the cells
 
 ## Dataset
-The data collected from a university is strored in the teacher_info***.csv file.
-
+To be more specific, the information gathered from the university is systematically saved in a file named teacher_info***.csv, ensuring its easy access and management for further reference and analysis.
 
